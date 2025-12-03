@@ -1,4 +1,4 @@
-Mechanic Shop API
+## Mechanic Shop API
 #### Overview
 
 The Mechanic Shop API is a RESTful API built with Flask, SQLAlchemy, and Marshmallow, designed to manage a mechanic shop’s resources including customers, vehicles, mechanics, service tickets, and service ticket assignments. The API follows the Application Factory Pattern and uses Blueprints for modularity.
